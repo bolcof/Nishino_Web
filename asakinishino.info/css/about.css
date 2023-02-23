@@ -22,6 +22,10 @@ body {
 	width: 30%;
 }
 
+.link {
+	font-family:"a-otf-ryumin-pr6n"
+}
+
 #links a {
 	color: black;
 }
