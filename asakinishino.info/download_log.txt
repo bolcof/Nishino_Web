@@ -1,0 +1,33 @@
+ダウンロード開始：2023/02/24 3:05:57
+
+● http://asakinishino.info から E:\make_202008\Nishino_Web\asakinishino.info へ
+
+about.html
+works-comming.html
+index.html
+
+● http://asakinishino.info/css から E:\make_202008\Nishino_Web\asakinishino.info\css へ
+
+works-comming.css
+main-03111000.css
+about.css
+
+● http://asakinishino.info/image から E:\make_202008\Nishino_Web\asakinishino.info\image へ
+
+work_image.png
+cv_image.png
+AsakiNishino.png
+
+● http://asakinishino.info/mouse から E:\make_202008\Nishino_Web\asakinishino.info\mouse へ
+
+idol.png
+
+● http://asakinishino.info/js から E:\make_202008\Nishino_Web\asakinishino.info\js へ
+
+mouseImg.js
+
+ダウンロード完了：2023/02/24 3:05:58
+
+ダウンロード予定数：11
+ダウンロード総数：11
+エラーはありませんでした。

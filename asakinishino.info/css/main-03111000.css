@@ -1,0 +1,70 @@
+body {
+	background : #F0F0F0;
+}
+
+body #mouseImg {
+  position: fixed;
+  visibility: hidden;
+  opacity: 0;
+}
+
+body.on_mouse #mouseImg {
+  visibility: visible;
+  opacity: 1;
+}
+
+#title {
+	width: 100%;
+	text-align: center;
+}
+
+#title-image {
+	width: 60%;
+	max-width: 600px;
+	margin: 0 auto;
+	/*text-align: center;*/
+}
+
+#face {
+	width: 100%;
+	/*width: 450px;*/
+	margin: 0 auto;
+}
+
+#door {
+	width: 100%;
+	/*width: 450px;*/
+	margin: 0 auto;
+}
+
+.blured {
+	text-shadow: 0 0 2.8px rgba(0,0,0,0.8);
+}
+
+#comming-soon {
+	font-size: 32px;
+}
+
+.contents {
+	display: flex;
+	justify-content: center;
+	flex-wrap: wrap;
+}
+
+.about {
+	width: 30%;
+}
+
+.works {
+	width: 30%;
+}
+
+#about-text{
+	font-size: 32px;
+	text-align: center;
+}
+
+#works-text {
+	font-size: 32px;
+	text-align: center;
+}

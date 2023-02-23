@@ -1,0 +1,44 @@
+body {
+	background : #F0F0F0;
+}
+
+#all {
+	width: 90%;
+	margin: 0 auto;
+}
+
+#title {
+	display: flex;
+}
+
+#title-image {
+	width: 50%;
+	max-width: 450px;
+}
+
+#links {
+	margin-top: 40px;
+	margin-left: 40px;
+	width: 30%;
+}
+
+#links a {
+	color: black;
+}
+
+#profile {
+	margin-left: 32px;
+	font-size: 24px;
+	width: 70%;
+}
+
+#footer {
+	margin-top: 50px;
+	text-align: right;
+}
+
+#footer a {
+	font-size: 16px;
+	color: black;
+	margin: 20px;
+}

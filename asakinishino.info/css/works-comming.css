@@ -1,0 +1,44 @@
+body {
+	background : #F0F0F0;
+}
+
+#all {
+	width: 90%;
+	margin: 0 auto;
+}
+
+#title {
+	width: 100%;
+	text-align: left;
+	font-size: 60px;
+}
+
+.contents {
+	text-align: center;
+}
+
+#title-image {
+	width: 600px;
+	margin: 0 auto;
+	/*text-align: center;*/
+}
+
+#face {
+	width: 450px;
+	margin: 0 auto;
+}
+
+#comming-soon {
+	font-size: 32px;
+}
+
+#footer {
+	margin-top: 50px;
+	text-align: right;
+}
+
+#footer a {
+	font-size: 16px;
+	color: black;
+	margin: 20px;
+}
