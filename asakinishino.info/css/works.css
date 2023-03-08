@@ -22,7 +22,7 @@ body {
    width: 100%;
 }
 
-#side-bar{
+#side-bar {
    width: 20%;
    padding: 0;
    text-align: left;
@@ -30,12 +30,46 @@ body {
    min-height: 20px;
 }
 
-#still-image-area{
+#humburger-icon {
+	width: 64px;
+}
+
+#menu-area {
+	margin-left: 20px;
+
+	border-left:4px solid #000000; /*線の設定*/
+	padding:12px 8px; /*余白の設定*/
+
+	font-size: 21px;
+	color: black;
+}
+
+#menu-area ul {
+	padding-left: 0px;
+	list-style: none;
+}
+
+#menu-area ul li {
+	margin-bottom: 28px;
+}
+
+#menu-area ul li a {
+	color: black;
+}
+
+#still-image-area {
    width: 80%;
+   height: 30%;
    padding: 0;
    text-align: left;
    background-color: #0000dd;
    min-height: 20px;
+}
+
+#still-image-area #slideshowing {
+	height: 100%;
+	display: block;
+	margin: 0 auto;
 }
 
 #footer {
@@ -49,7 +83,7 @@ body {
 }
 
 #footer a {
-	font-size: 16px;
+	font-size: 24px;
 	color: black;
 	margin: 20px;
 }
